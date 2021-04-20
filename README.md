@@ -1,1 +1,1 @@
-# Template for marathon of Django fo Beginners
+# Template for marathon of Django for Beginners
