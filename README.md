@@ -1,5 +1,5 @@
 # blog-template
 
-Template for marathon of Django for Beginners
+Marathon template code "Django for Beginners"
 
 https://pavlov-school.ru/
