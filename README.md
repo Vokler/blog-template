@@ -1,1 +1,3 @@
-# Template for marathon of Django for Beginners
+# blog-template
+
+Template for marathon of Django for Beginners
